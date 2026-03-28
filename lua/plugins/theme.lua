@@ -1,0 +1,1 @@
+/home/leigh/.config/omarchy/current/theme/neovim.lua
